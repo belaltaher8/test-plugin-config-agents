@@ -1,0 +1,24 @@
+{
+  "name": "test-plugin-config-agents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belaltaher8/test-plugin-config-agents.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/belaltaher8/test-plugin-config-agents/issues"
+  },
+  "homepage": "https://github.com/belaltaher8/test-plugin-config-agents#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
