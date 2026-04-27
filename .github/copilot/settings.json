@@ -1,5 +1,14 @@
 {
    "enabledPlugins": {
-     "belaltaher8/test-plugin-with-agent": true
+     "my-custom-plugin@my-marketplace": true
+   },
+   "extraKnownMarketplaces": {
+     "my-marketplace": {
+       "source": {
+         "source": "github",
+         "repo": "belaltaher8/test-marketplace",
+         "ref": "main"
+       }
+     }
    }
  }
